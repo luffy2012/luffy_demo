@@ -1,1 +1,6 @@
+username: luffy2012
 baseurl: /luffy_demo
+markdown: redcarpet
+safe: false
+pygments: true
+title: 我的博客
